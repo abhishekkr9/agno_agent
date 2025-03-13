@@ -1,0 +1,8 @@
+duckduckgo-search
+openai
+agno
+pycountry
+yfinance
+groq
+beautifulsoup4
+ollama
